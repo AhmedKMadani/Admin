@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق اداري</string>
+    <string name="hint_email">البريد الألكتروني</string>
+    <string name="hint_password">كلمة السر</string>
+    <string name="hint_name">"الأسم "</string>
+    <string name="btn_login">"تسجيل الدخول "</string>
+    <string name="btn_logout">تسجيل الخروج</string>
+    <string name="name">الأسم</string>
+    <string name="text_login">تسجيل الدخول</string>
+    <string name="text_register">تسجيل</string>
+    <string name="title_getting_data">تسجيل الدخول</string>
+    <string name="title_please_wait">الرجاء الأنتظار</string>
+    <string name="auth">الرجاء ادخال اسم المستخدم/البريد الألكتروني و كلمة السر </string>
+    <string name="no_internet_connection">لا يوجد اتصال بالأنترنت !</string>
+    <string name="retry">"محاولة مرة آخري "</string>
+
+    <string name="service_text_mangae_hall">"ادارة صالة "</string>
+    <string name="service_text_tarck_booking">متابعة الحجوزات</string>
+    <string name="TRY_AGAIN">"محاولة مرة آخري "</string>
+    <string name="FAILED">فشل</string>
+    <string name="failed">فشل</string>
+    <string name="Close">اغلاق</string>
+    <string name="navigation_drawer_close">اغلاق</string>
+    <string name="unit_mile">ميل</string>
+    <string name="unit_kilometer">كيلو</string>
+    <string name="unit_meter">متر</string>
+    <string name="company_intro">www.farhatty.com</string>
+    <string name="company_phone">22</string>
+    <string name="company_web_page">www.farhatty.com</string>
+    <string name="company_mail">info@farhatty.com</string>
+    <string name="re_tap_text">اضغط مرتين للخروج</string>
+    <string name="nav_text_contact">تواصل معنا</string>
+    <string name="nav_log_out">تسجيل الخروج</string>
+    <string name="nav_profile">الصفحة الشخصية</string>
+    <string name="nav_text_faq">الأسئلة المتكررة</string>
+    <string name="GOT_IT">" فهمت"</string>
+    <string name="CANCEL">الغاء</string>
+    <string name="YES">نعم</string>
+    <string name="NO">لا</string>
+    <string name="SETTING">الأعدادت</string>
+    <string name="OK">موافق</string>
+    <string name="exit_confirm">هل أنت متأكد أنك تريد الخروج؟</string>
+    <string name="currency">ج.س</string>
+    <string name="service_text_booking">الحجوزات</string>
+    <string name="company_address">الخرطوم السودان</string>
+    <string name="navigation_drawer_open">افتح</string>
+    <string name="add_booking">اضافة حجز</string>
+    <string name="service_text_add_booking">اضافة حجز</string>
+    <string name="service_text_add_location">"اضافة موقع "</string>
+    <string name="hint_Latitude">"خطوط الطول "</string>
+    <string name="text_submit">اضافة</string>
+    <string name="invalid_name">"الأسم غير صالح "</string>
+    <string name="invalid_date">"تاريخ الحجز غير صالح "</string>
+    <string name="hint_Longitude">خطوط العرض</string>
+    <string name="confirmation">تأكيد</string>
+    <string name="confirm_checkout">هل تريد تأكيد متابعة الطلب؟</string>
+    <string name="sub_title_nav_others">اخرى</string>
+    <string name="nav_text_home">الرئيسية</string>
+    <string name="change_stat">تغيير الحالة</string>
+    <string name="not_active">تحت المراجعة</string>
+    <string name="full_name">اللأسم بالكامل :</string>
+    <string name="price">السعر :</string>
+    <string name="booking_details">"تفاصيل الحجز "</string>
+    <string name="action_search">بحث</string>
+    <string name="nav_text_track">"متابعة الحجوزات "</string>
+    <string name="buyer_profile">"تفاصيل الحجز "</string>
+    <string name="insert_book">"الرجاء ادخال رقم الحجز "</string>
+    <string name="Booking_Number">رقم الحجز</string>
+    <string name="booking_phone">رقم الهاتف :</string>
+    <string name="booking_date">" تاريخ الحجز :"</string>
+    <string name="booking_Name">الاسم :</string>
+    <string name="event_date">"  تاريخ المناسبة :"</string>
+    <string name="Booking_number">"رقم الحجز : "</string>
+    <string name="invalid_date_res">"تاريخ الحجز غير صالح "</string>
+    <string name="hint_date_res">تاريخ الحجز</string>
+    <string name="user_not_active">عميلنا العزيز , لم يتم تفعيل حسابك الرجاء التواصل مع الأدارة</string>
+    <string name="booking_total">الاجمالي :</string>
+    <string name="booking_status">حالة الحجز :</string>
+    <string name="success_checkout">مبروك</string>
+    <string name="msg_success_checkout">تمت اضافة طلبك بنجاح , شكرا</string>
+    <string name="failed_checkout">فشل في اجراء الطلب , الرجاء التأكد من الوصول للأنترنت , او تواصل معنا في حالة تعذر الطلب</string>
+    <string name="hint_Title_en">"العنوان(الانجليزية) "</string>
+    <string name="hint_Title_ar">العنوان (العربية)</string>
+    <string name="hint_Description_en">الوصف (الانجليزية)</string>
+    <string name="hint_Description_ar">الوصف (العربية)</string>
+    <string name="failed_getting">محاولة فاشلة الرجاء التأكد من الوصول للأنترنت</string>
+    <string name="add_location">الرجاء الأنتظار ريثما يتم اضافة موقعك  </string>
+
+    <string name="failed_getting_booking">فشل في الحصول علي تفاصيل الحجز , الرجاء التأكد من الأتصال بالأنترنت </string>
+    <string name="size">سعةالصالة </string>
+    <string name="failed_adding_location">فشل في اضافة الموقع , الرجاء التأكد من الأتصال بالأنترنت </string>
+    <string name="invalid_booking_numbr">رقم الحجز غير صالح</string>
+    <string name="content_submit">جاري اضافة الحجز </string>
+    <string name="msg_success">تم الطلب بنجاح</string>
+    <string name="add_data">ادخال البيانات</string>
+    <string name="add_services">اضافة الخدمات </string>
+    <string name="add_image">اضافة الصور </string>
+    <string name="title_getting_services">الرجاء الأنتظار ريثما يتم تحميل الخدمات </string>
+    <string name="title_add_services">الرجاء الانتظار حتي تتم اضافة الخدمة  </string>
+    <string name="title_getting_databooking">الرجاء الأنتظار ريثما يتم الحصول علي بيانات الحجوزات</string>
+
+    <string name="location_en">الموقع (الانجليزية)</string>
+    <string name="location_ar">الموقع (العربية)</string>
+
+    <string name="invalid_title_ar">العنوان غير صالح (العربية)</string>
+    <string name="invalid_title_en">العنوان غير صالح (الانجليزية)</string>
+
+    <string name="invalid_desc_en">الوصف غير صالح (الانجليزية) </string>
+    <string name="invalid_desc_ar"> الوصف غير صالح (العربية) </string>
+
+    <string name="invalid_price"> السعر غير صالح</string>
+    <string name="_price">السعر </string>
+
+    <string name="services">الخدمات </string>
+    <string name="invalid_username">اسم المستخدم , البريد الألكتروني غير صالح </string>
+    <string name="invalid_pass">كلمة المرور غير صالحة  </string>
+
+    <string name="invalid_lat">خطوط العرض غير صالحة </string>
+    <string name="invalid_long">خطوط الطول غير صالحة</string>
+
+    <string name="invalid_size">سعة الصالة غير صالحة </string>
+    <string name="invalid_locat"> العنوان غير صالح </string>
+
+
+    <string name="edit_data">تعديل البيانات</string>
+    <string name="edit_services">تعديل الخدمات </string>
+    <string name="edit_image">تعديل الصور </string>
+
+    <string name="view_booking">عرض الحجز</string>
+    <string name="delet_services">حذف الخدمة </string>
+    <string name="edit_service">تعديل الخدمة </string>
+
+    <string name="service_text_edit_hall">ادارة الصالة</string>
+    <string name="service_text_edit_artist">ادارة الفنان </string>
+    <string name="service_text_edit_hotel">ادارة الشقق الفندقية </string>
+    <string name="service_text_edit_coiffure">ادارة مركز التجميل </string>
+    <string name="service_text_edit_mens">ادارة الصالون </string>
+    <string name="service_text_edit_wedding">ادارة عربات الزفة</string>
+    <string name="service_text_edit_photo">ادارة مركز التصوير </string>
+    <string name="service_text_edit_chef">ادارة مركز تجهيز المناسبات</string>
+
+
+    <string name="service_text_add_hall">اضافة الصالة</string>
+    <string name="service_text_add_artist">اضافة الفنان </string>
+    <string name="service_text_add_hotel">اضافة الشقق الفندقية </string>
+    <string name="service_text_add_coiffure">اضافة مركز التجميل </string>
+    <string name="service_text_add_mens">اضافة الصالون </string>
+    <string name="service_text_add_wedding">اضافة عربات الزفة</string>
+    <string name="service_text_add_photo">اضافة مركز التصوير </string>
+    <string name="service_text_add_chef">اضافة مركز تجهيز المناسبات</string>
+
+    <string name="adding_data">الرجاء الأنتظار ريثما يتم اضافة بياناتك</string>
+    <string name="edit">تعديل</string>
+    <string name="delete">حذف</string>
+
+    <string name="title_delete">الرجاء الأنتظار ريثما يتم حذف بياناتك</string>
+    <string name="title_edit">الرجاء الأنتظار ريثما يتم تعديل بياناتك</string>
+
+    <string name="title_edit_services">الرجاء الأنتظار ريثما يتم تعديل الخدمة </string>
+    <string name="title_delete_services">الرجاء الأنتظار ريثما يتم حذف الخدمة </string>
+
+    <string name="hall_ex">نتأسف عملينا العزيز يمكنك فقط اصافة عنصر واحد</string>
+    <string name="sorry">عذرا</string>
+
+
+    <string name="username">اسم المستخدم</string>
+    <string name="comapny"> الجهة </string>
+    <string name="stat"> الحالة </string>
+
+    <string name="text_upload_asperview"> اضافة كصورة العرض الاساسية </string>
+    <string name="text_add_gallery"> اضافة لمعرض الصور  </string>
+    <string name="upload"> اضافة </string>
+    <string name="failed_attemps">محاولة فاشلة الرجاء التأكد من الوصول للأنترنت</string>
+    <string name="valid_date">تاريخ الحجز متاح</string>
+    <string name="congratulation">مبروك</string>
+    <string name="data_submitted">تمت اضافة البيانات بنجاح</string>
+    <string name="data_submitted_image">تمت اضافة الصور بنجاح</string>
+    <string name="check_data">التأكد من اتاحة التاريخ</string>
+
+    <string name="hall_no_ex">عميلناالعزيز , الرجاء اضافة عنصرك اولا</string>
+    <string name="add_image_please">عميلنا العزيز , الرجاء اضافة صورة</string>
+
+    <string name="take_photo">التقاط صورة</string>
+    <string name="chosse">اختيار من معرض الصور</string>
+</resources>

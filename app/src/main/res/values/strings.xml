@@ -1,0 +1,205 @@
+<resources>
+    <string name="app_name">Admin</string>
+
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+
+
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+
+
+    <string name="title_getting_data">Login......</string>
+    <string name="title_please_wait">Please Wait</string>
+    <string name="auth">"Please enter the Username/Email and Password!"</string>
+
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="retry">RETRY</string>
+
+    <string name="service_text_edit_hall">Edit Hall</string>
+    <string name="service_text_edit_artist">Edit Artist</string>
+    <string name="service_text_edit_hotel">Edit Hotel Apartments</string>
+    <string name="service_text_edit_coiffure">Edit Coiffure</string>
+    <string name="service_text_edit_mens">Edit Men Salon</string>
+    <string name="service_text_edit_wedding">Edit Wedding Carts</string>
+    <string name="service_text_edit_photo">Edit Photo Center</string>
+    <string name="service_text_edit_chef">Edit Chef</string>
+
+
+    <string name="service_text_add_hall">Add Hall</string>
+    <string name="service_text_add_artist">Add Artist</string>
+    <string name="service_text_add_hotel">Add Hotel Apartments</string>
+    <string name="service_text_add_coiffure">Add Coiffure</string>
+    <string name="service_text_add_mens">Add Men Salon</string>
+    <string name="service_text_add_wedding">Add Wedding Carts</string>
+    <string name="service_text_add_photo">Add Photo Center</string>
+    <string name="service_text_add_chef">Add Chef</string>
+
+    <string name="service_text_mangae_hall">Manage Hall</string>
+    <string name="service_text_booking">Booking</string>
+    <string name="service_text_add_booking">Add Booking</string>
+    <string name="service_text_add_location">Add Location</string>
+    <string name="service_text_tarck_booking">Track Booking</string>
+
+
+
+
+    <string name="TRY_AGAIN">TRY AGAIN</string>
+    <string name="FAILED">FAILED</string>
+    <string name="failed">Failed</string>
+    <string name="Close">Close</string>
+
+
+    <string name="failed_getting">Oops, Failed login attemp   Make sure you have internet connection, username and password are correct</string>
+    <string name="failed_attemps">Oops, Failed attemp , Make sure you have internet connection</string>
+
+
+    <string name="hint_Title_en">Title (in English) </string>
+    <string name="hint_Title_ar">Title (in Arabic) </string>
+    <string name="hint_Latitude">Latitude</string>
+    <string name="hint_Longitude">Longitude</string>
+    <string name="hint_Description_en">Description (in English) </string>
+    <string name="hint_Description_ar">Description (in Arabic) </string>
+    <string name="text_submit">Submit</string>
+
+    <string name="add_booking">ADD BOOKING</string>
+    <string name="hint_date_res">Reservation Date</string>
+
+    <string name="invalid_name">Invalid name</string>
+    <string name="invalid_date_res">Invalid Date Reservation</string>
+    <string name="invalid_date">Date Reservation is unavilable </string>
+    <string name="valid_date">Date Reservation is avilable </string>
+    <string name="CANCEL">CANCEL</string>
+    <string name="GOT_IT">GOT IT</string>
+    <string name="YES">YES</string>
+    <string name="NO">NO</string>
+    <string name="SETTING">SETTING</string>
+    <string name="OK">OK</string>
+
+
+    <string name="content_submit">Submit your Booking</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="confirm_checkout">Are you sure want to checkout this order?</string>
+    <string name="failed_checkout">Oops, Failed when checkout order   Make sure you have internet connection, or if you need help please Contact Us from menu Settings</string>
+    <string name="success_checkout">Congratulation</string>
+    <string name="msg_success_checkout">Successfully checkout order. Your order code : %1$s  Your order will be review soon.One of Farhatty team will contact you.</string>
+    <string name="exit_confirm">Are you sure you want to exit?</string>
+    <string name="currency">SDG</string>
+
+    <string name="Booking_number">Booking Number : </string>
+    <string name="event_date">Event Date : </string>
+    <string name="booking_status">Booking Status : </string>
+    <string name="booking_Name">Name : </string>
+    <string name="booking_date">Booking Date : </string>
+    <string name="booking_phone">Phone : </string>
+    <string name="booking_total">Total : </string>
+    <string name="Booking_Number">Booking Number</string>
+    <string name="insert_book">Insert your Booking number</string>
+
+    <string name="booking_details">Booking Details</string>
+    <string name="action_search">Search</string>
+
+    <string name="nav_text_track">Track Booking</string>
+    <string name="buyer_profile">Booking Details</string>
+    <string name="price">Price : </string>
+    <string name="full_name">Full Name :</string>
+    <string name="not_active">Under Process</string>
+    <string name="change_stat">Change Status </string>
+    <string name="user_not_active">Sorry Dear Client , but your account is not been active yet , please contact the administration for further details , Thank you </string>
+    <string name="nav_text_home">Home</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_log_out">Log Out</string>
+    <string name="sub_title_nav_others">Other</string>
+    <string name="nav_text_faq">Faq</string>
+    <string name="nav_text_contact">Contact Us</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="re_tap_text">Double tap to exit</string>
+
+    <string name="company_mail">info@farhatty.com</string>
+    <string name="company_web_page">www.farhatty.com</string>
+    <string name="company_phone">22</string>
+    <string name="company_address">Khartoum Sudan</string>
+    <string name="company_intro">www.farhatty.com</string>
+
+    <string name="unit_meter">m</string>
+    <string name="unit_kilometer">km</string>
+    <string name="unit_mile">mi</string>
+
+    <string name="location_en">Location (English)</string>
+    <string name="location_ar">Location (Arabic)</string>
+
+    <string name="failed_getting_booking">Oops, Failed getting Booking Details attemp , Make sure you have internet connection</string>
+    <string name="invalid_booking_numbr">Invalid Booking Number</string>
+    <string name="size">Hall Size</string>
+    <string name="add_location">Please wait While adding your location into our server </string>
+    <string name="msg_success">Successfully checkout order.</string>
+    <string name="add_data">Add Data</string>
+    <string name="add_services">Add Services </string>
+    <string name="add_image">Add Images </string>
+    <string name="title_getting_services">Please wait while services been fetched  </string>
+    <string name="title_add_services">Please wait while service is  been added  </string>
+    <string name="title_getting_databooking">Please wait while getting booking data</string>
+    <string name="failed_adding_location">Oops, Failed adding Location attemp , Make sure you have internet connection</string>
+
+    <string name="invalid_title_ar">Invalid Title (arabic) </string>
+    <string name="invalid_title_en">Invalid Title (english) </string>
+
+    <string name="invalid_desc_en">Invalid Description (english) </string>
+    <string name="invalid_desc_ar">Invalid Description (arabic) </string>
+
+    <string name="invalid_price">Invalid price </string>
+    <string name="_price">Price</string>
+    <string name="services">Services </string>
+    <string name="invalid_username">Inavlid Username , Email  </string>
+    <string name="invalid_pass">Inavlid  Password </string>
+
+    <string name="invalid_lat">Inavlid  Latitude </string>
+    <string name="invalid_long">Inavlid  Longitude </string>
+
+    <string name="invalid_size">Inavlid  Hall Size </string>
+    <string name="invalid_locat">Inavlid  Address  </string>
+
+    <string name="edit_data">Edit Data</string>
+    <string name="edit_services">Edit Services </string>
+    <string name="edit_image">Edit Images </string>
+    <string name="view_booking">View Booking</string>
+    <string name="delet_services">Delete Service </string>
+    <string name="edit_service">Edit Service </string>
+
+    <string name="adding_data">Please Wait while adding your Data</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="title_delete">Please wait while your data is been deleted</string>
+    <string name="title_edit">Please wait while your data is been edited</string>
+
+    <string name="title_edit_services">Please wait while service is  been edited </string>
+    <string name="title_delete_services">Please wait while service is  been deleted </string>
+
+    <string name="hall_ex">Sorry Dear Client , You can only insert one item </string>
+    <string name="sorry">Sorry</string>stat
+
+    <string name="username">User Name</string>
+    <string name="comapny"> Company </string>
+    <string name="stat"> Status </string>
+    <string name="text_upload_asperview"> Upload as perview Image  </string>
+    <string name="text_add_gallery"> Upload to Gallery   </string>
+    <string name="upload"> Upload </string>
+    <string name="congratulation">Congratulation</string>
+    <string name="data_submitted">Dear Customer your data has been submitted successfully</string>
+    <string name="data_submitted_image">Dear Customer your data has been submitted successfully , Do you want to upload another image ?</string>
+    <string name="check_data">Dear Customer please wait while we check the a availability of the date</string>
+
+    <string name="hall_no_ex">Sorry Dear Client , Please Add item first</string>
+    <string name="add_image_please">Sorry Dear Client , Please Add item Image</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="chosse">Choose from Library</string>
+
+</resources>

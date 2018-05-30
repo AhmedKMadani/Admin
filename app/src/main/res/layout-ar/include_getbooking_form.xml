@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/spacing_medium">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/spacing_xxlarge"
+        android:gravity="center_vertical|start"
+        android:paddingLeft="@dimen/spacing_middle"
+        android:paddingRight="@dimen/spacing_middle"
+        android:text="@string/buyer_profile"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:textColor="@color/grey_20" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/spacing_xmedium"
+        android:paddingRight="@dimen/spacing_xmedium">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center_vertical|start"
+            android:paddingLeft="@dimen/spacing_middle"
+            android:paddingRight="@dimen/spacing_middle"
+            android:text="@string/full_name"
+            android:textColor="@color/black_overlay"
+            android:textAppearance="@style/TextAppearance.CityGuide.Body1" />
+
+        <TextView
+            android:id="@+id/buyer_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLength="50"
+            android:paddingBottom="@dimen/value_10dp"
+            android:paddingTop="@dimen/value_10dp"
+            android:textColorLink="@color/colorPrimary"
+            android:gravity="center_vertical|start"
+            android:paddingLeft="@dimen/spacing_middle"
+            android:paddingRight="@dimen/spacing_middle"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:textColor="@color/black_overlay"
+            android:gravity="center_vertical|start"
+            android:paddingLeft="@dimen/spacing_middle"
+            android:paddingRight="@dimen/spacing_middle"
+            android:text="@string/price"
+            android:textAppearance="@style/TextAppearance.CityGuide.Body1" />
+
+        <TextView
+            android:id="@+id/price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"
+            android:maxLength="50"
+            android:gravity="center_vertical|start"
+            android:paddingLeft="@dimen/spacing_middle"
+            android:paddingRight="@dimen/spacing_middle"
+            android:paddingBottom="@dimen/value_10dp"
+            android:paddingTop="@dimen/value_10dp"
+            android:textColorLink="@color/colorPrimary" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center_vertical|start"
+            android:paddingLeft="@dimen/spacing_middle"
+            android:paddingRight="@dimen/spacing_middle"
+            android:text="@string/booking_total"
+            android:textColor="@color/black_overlay"
+            android:textAppearance="@style/TextAppearance.CityGuide.Body1" />
+
+        <TextView
+            android:id="@+id/total"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLength="50"
+            android:paddingBottom="@dimen/value_10dp"
+            android:paddingTop="@dimen/value_10dp"
+            android:gravity="center_vertical|start"
+            android:paddingLeft="@dimen/spacing_middle"
+            android:paddingRight="@dimen/spacing_middle"
+            android:textColorLink="@color/colorPrimary" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:textColor="@color/black_overlay"
+            android:gravity="center_vertical|start"
+            android:paddingLeft="@dimen/spacing_middle"
+            android:paddingRight="@dimen/spacing_middle"
+            android:text="@string/booking_date"
+            android:textAppearance="@style/TextAppearance.CityGuide.Body1" />
+
+        <TextView
+            android:id="@+id/booking_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLength="50"
+            android:paddingBottom="@dimen/value_10dp"
+            android:paddingTop="@dimen/value_10dp"
+            android:gravity="center_vertical|start"
+            android:paddingLeft="@dimen/spacing_middle"
+            android:paddingRight="@dimen/spacing_middle"
+            android:textColorLink="@color/colorPrimary" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center_vertical|start"
+            android:paddingLeft="@dimen/spacing_middle"
+            android:paddingRight="@dimen/spacing_middle"
+            android:textColor="@color/black_overlay"
+            android:text="@string/event_date"
+            android:textAppearance="@style/TextAppearance.CityGuide.Body1" />
+
+        <TextView
+            android:id="@+id/event_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLength="50"
+            android:paddingBottom="@dimen/value_10dp"
+            android:paddingTop="@dimen/value_10dp"
+            android:gravity="center_vertical|start"
+            android:paddingLeft="@dimen/spacing_middle"
+            android:paddingRight="@dimen/spacing_middle"
+            android:textColorLink="@color/colorPrimary" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:gravity="center_vertical|start"
+            android:paddingLeft="@dimen/spacing_middle"
+            android:paddingRight="@dimen/spacing_middle"
+            android:text="@string/booking_status"
+            android:textColor="@color/black_overlay"
+            android:textAppearance="@style/TextAppearance.CityGuide.Body1" />
+
+        <TextView
+            android:id="@+id/stats"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLength="50"
+            android:paddingBottom="@dimen/value_10dp"
+            android:paddingTop="@dimen/value_10dp"
+            android:gravity="center_vertical|start"
+            android:paddingLeft="@dimen/spacing_middle"
+            android:paddingRight="@dimen/spacing_middle"
+            android:textColorLink="@color/colorPrimary" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
